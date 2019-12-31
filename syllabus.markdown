@@ -49,7 +49,7 @@ There will be weekly office hours available, as well as weekly tutoring sessions
 <div class="panel-heading">Books</div>
 <div class="panel-body" markdown="block">
 
-* [Learning Python, 5th Edition](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/learning-python-5th/9781449355722/) by Mark Lutz
+* [Learning Python, 5th Edition](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/learning-python-5th/9781449355722/) by Mark Lutz (Optional)
 
 </div>
     </div>

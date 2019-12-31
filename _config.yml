@@ -3,24 +3,24 @@ relative_links:
 baseurl: ""
 
 
-title: CSCI-UA.0003 Fall 2019, Section 001
+title: CSCI-UA.0003 Spring 2-2-, Section 002
 email: jversoza at cs dot nyu dot edu
 
 # course
 # CSCI-GA.1120-001 - Introduction to Programming - 60 Fifth Ave C10
 course_number: "CSCI-UA.0003"
-course_section: "001"
+course_section: "002"
 course_name: "Introduction to Computer Programming (Limited Prior Experience)"
-course_semester: "Fall 2019"
-course_dept: DHSS
-course_dept_link: http://dhss.nyu.edu/
-course_time: "Mondays and Wednesdays, 9:30AM to 10:45AM"
-course_room: WWH 201
-course_site: https://cs.nyu.edu/courses/fall19/CSCI-UA.0003-001/ 
+course_semester: "Spring 2020"
+course_dept: CS
+course_dept_link: http://cs.nyu.edu/
+course_time: "Tuesdays and Thursdays, 11:00AM to 12:15PM"
+course_room: WWH 312
+course_site: https://cs.nyu.edu/courses/spring20/CSCI-UA.0003-002/ 
 course_site_alt: http://cs.nyu.edu/~jversoza
 
-office_hours: "<br>Mon/Wed 11:25am - 12:25pm at WWH 422<br>Thurs 12:15pm - 1:15pm at 60 5th Ave"
-office_hours_room: WWH 422 on Mon/Wed... Lobby, 60 5th Ave on Thurs
+office_hours: "<br>Mon 8:40am - 10:40am and Tue 1:30pm - 2:30pm, WWH 422"
+office_hours_room: WWH 422 
 
 # midterm
 midterm1_date: "N/A"
