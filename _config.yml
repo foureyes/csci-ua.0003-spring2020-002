@@ -3,7 +3,7 @@ relative_links:
 baseurl: ""
 
 
-title: CSCI-UA.0003 Spring 2-2-, Section 002
+title: CSCI-UA.0003 Spring 2020, Section 002
 email: jversoza at cs dot nyu dot edu
 
 # course
@@ -19,7 +19,7 @@ course_room: WWH 312
 course_site: https://cs.nyu.edu/courses/spring20/CSCI-UA.0003-002/ 
 course_site_alt: http://cs.nyu.edu/~jversoza
 
-office_hours: "<br>Mon 8:40am - 10:40am and Tue 1:30pm - 2:30pm, WWH 422"
+office_hours: "<br>Mon 8:45am - 10:45am and Tue 1:30pm - 2:30pm, WWH 422"
 office_hours_room: WWH 422 
 
 # midterm
