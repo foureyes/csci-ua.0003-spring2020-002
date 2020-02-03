@@ -56,7 +56,7 @@ draft,type,num,date,day,slides,readings,assignments,need quiz,,only lecture,note
   * Numbers in Action
 * [Ch 11. Assignments, Expressions, and Prints](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/learning-python-5th/9781449355722/ch11.html#assignments_comma_expressions_comma_and)
   * Assignment Statements – Assignment Statement Forms
-  * Print Operations – The Python 3.0 print Function ","__Due Tue, Feb 4th, at 11:00am__
+  * Print Operations – The Python 3.0 print Function ","__Due Tue, Feb 6th, at 11:00am__
 
 
 
@@ -64,7 +64,7 @@ draft,type,num,date,day,slides,readings,assignments,need quiz,,only lecture,note
 * Quiz 02-A and Quiz 02-B in NYU Classes (under Tests and Quizzes)","* fstrings
 * % operator",,* fstrings,"* is using pycharm worth type annotations?
 * need to be more consistent with type annotations"
-y,workshop,3,04-Feb ,Tue,"Types, Operators, Variables",Workshop,"Homework 1 __Due Tuesday, 9/17, at 11pm__
+,workshop,3,04-Feb ,Tue,"Types, Operators, Variables",Workshop,"Homework 1 __Due Monday, 2/10, at 11pm__
 
 * [stadium_seating.py](assignments/hw01/stadium_seating.py)
 * [multiply.py](assignments/hw01/multiply.py)
@@ -72,7 +72,7 @@ y,workshop,3,04-Feb ,Tue,"Types, Operators, Variables",Workshop,"Homework 1 __Du
 * [your_face.py](assignments/hw01/your_face.py) 
 ",,,,"* reiterate homework policy
 * annotate if used online resource"
-y,lecture,4,06-Feb ,Thu,"Boolean Logic, If and While, Modules
+,lecture,4,06-Feb ,Thu,"Boolean Logic, If and While, Modules
 
 * [Conditionals](slides/02/review-conditionals.html)
 * [Boolean Logic](slides/02/boolean-logic.html)
@@ -86,7 +86,7 @@ y,lecture,4,06-Feb ,Thu,"Boolean Logic, If and While, Modules
 * [Ch 12. if Tests and Syntax Rules](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/learning-python-5th/9781449355722/ch12.html#if_tests_and_syntax_rules)
 * [Ch 13. while and for Loops](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/learning-python-5th/9781449355722/ch13.html#while_and_for_loops)
   * while Loops
-  * break, continue, pass, and the Loop else","__Due Mon, Sep 23rd, at 9:30am__
+  * break, continue, pass, and the Loop else","__Due Mon, Feb 13th, at 11:00am__
 
 
 
