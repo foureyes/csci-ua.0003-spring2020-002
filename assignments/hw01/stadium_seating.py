@@ -10,14 +10,6 @@ and then displays the amount of income generated from ticket sales.
 
 For this exercise:
 
-* create a function called display_total_cost; it should take three arguments:
-  the number of class A, B, and C tickets sold
-* the function should calculate the total cost of all of the tickets and
-  display the value
-* create a function called main; the main function will take no parameters
-* the main function will ask for input and call the display_total_cost function 
-  that you created
-  
 Example Output - Everything after the greater than sign (>) is user input:
 
 Hi.  Let's see how much money the softball game made!
