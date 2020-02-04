@@ -11,3 +11,4 @@ _data/.~lock.schedule.csv
 .jekyll-cache
 .jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/*
 .jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/*/*
+.mypy_cache

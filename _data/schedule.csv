@@ -28,29 +28,7 @@ draft,type,num,date,day,slides,readings,assignments,need quiz,,only lecture,note
 * continually encourage to move to 101 or drop to 0002
 * maybe quiz appropriate
 * best to wait for ds students? "
-,lecture,2,30-Jan ,Thu,"Types, Operators, Variables
-
-* PyCharm \*
-  * Tools → Python Console
-  * warnings / errors
-* [Hello](slides/01/hello.html) 
-  * (see errors slides below)
-* [Values and Types](slides/01/values-and-types.html)
-  * Type Annotations \*
-  * no “smart quotes” as str delimiter \*
-* [Operations and Variables](slides/01/operations-and-variables.html)
-  * operators (\*\*,  /, //) \*
-* [User Input](slides/01/user-input.html) \*
-* [Errors](slides/02/debugging.html) \*
-* [Design, Input, Processing, and Output](slides/02/design-input-output.html)
-* [Formatting Output (Print and Format)](slides/02/formatting.html) \*
-  * fstrings
-  * padding char, align, etc.
-* [Idioms and Style](slides/02/idioms-style.html)
-* [Variables Continued](slides/02/variables.html) \*
-* Turtle
-* Workshop Attendance \*
-","* [Module #1: Python Basics](https://cs.nyu.edu/~jversoza/csci-ua.0003-fa19/module01.php)
+,lecture,2,30-Jan ,Thu,Bas,"* [Module #1: Python Basics](https://cs.nyu.edu/~jversoza/csci-ua.0003-fa19/module01.php)
 * [Ch 5. Numeric Types](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/learning-python-5th/9781449355722/ch05.html)
   * Numeric Type Basics
   * Numbers in Action
@@ -64,7 +42,13 @@ draft,type,num,date,day,slides,readings,assignments,need quiz,,only lecture,note
 * Quiz 02-A and Quiz 02-B in NYU Classes (under Tests and Quizzes)","* fstrings
 * % operator",,* fstrings,"* is using pycharm worth type annotations?
 * need to be more consistent with type annotations"
-,workshop,3,04-Feb ,Tue,"Types, Operators, Variables",Workshop,"Homework 1 __Due Monday, 2/10, at 11pm__
+,workshop,3,04-Feb ,Tue,"Types, Operators, Variables
+
+* multiple assignment
+
+Drawing
+
+* [Turtle Basics](slides/turtle/turtle.html)",Workshop,"Homework 1 __Due Monday, 2/10, at 11pm__
 
 * [stadium_seating.py](assignments/hw01/stadium_seating.py)
 * [multiply.py](assignments/hw01/multiply.py)
@@ -123,7 +107,7 @@ y,lecture,6,13-Feb ,Thu,"Debugging, For Loops, Nested Loops
 y,workshop,7,18-Feb ,Tue,"Debugging, For Loops, Nested Loops
 
 * see nested loops above
-* [Turtle review](slides/07/turtle.html)
+* [Turtle review](slides/turtle/turtle-more.html)
   * bgcolor, color, size, square",Workshop,"Homework 3 __Due Tuesday, 10/1, at 11pm__
 
 * [forwards_backwards.py](assignments/hw03/forwards_backwards.py)
