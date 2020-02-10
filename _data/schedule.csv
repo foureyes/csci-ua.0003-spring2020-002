@@ -130,7 +130,7 @@ y,workshop,7,18-Feb ,Tue,"Debugging, For Loops, Nested Loops
 
 * see nested loops above
 * [Turtle review](slides/turtle/turtle-more.html)
-  * bgcolor, color, size, square",Workshop,"Homework 3 __Due Tuesday, 10/1, at 11pm__
+  * bgcolor, color, size, square",Workshop,"Homework 3 __Due Tuesday, 2/24, at 11pm__
 
 * [forwards_backwards.py](assignments/hw03/forwards_backwards.py)
 * [dice.py](assignments/hw03/dice.py)
@@ -162,9 +162,8 @@ Sample Questions Midterm #1
 * [Ch 22. Module Basics: The Big Picture](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/learning-python-5th/9781449355722/ch22.html#modules_colon_the_big_picture)
 * [Ch 23. Module Coding Basics](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/learning-python-5th/9781449355722/ch23.html#module_coding_basics)
   * Module Creation
-  * Module Usage","__Due Tue, Oct 15th, at 9:30am__
+  * Module Usage","__Due Thursday, Feb 27th, at 11am__
 
-(note – our class is on __Tuesday__ and Wednesday that week!)
 
 * [Module 05 on Strings](https://cs.nyu.edu/~jversoza/csci-ua.0003-fa19/module05.php)
 * Quiz 05 in NYU Classes (under Tests and Quizzes)",,,"* keyword args
