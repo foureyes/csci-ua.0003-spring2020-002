@@ -56,7 +56,7 @@ draft,type,num,date,day,slides,readings,assignments,need quiz,,only lecture,note
   * Numbers in Action
 * [Ch 11. Assignments, Expressions, and Prints](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/learning-python-5th/9781449355722/ch11.html#assignments_comma_expressions_comma_and)
   * Assignment Statements – Assignment Statement Forms
-  * Print Operations – The Python 3.0 print Function ","__Due Tue, Feb 6th, at 11:00am__
+  * Print Operations – The Python 3.0 print Function ","__Due Thu, Feb 6th, at 11:00am__
 
 
 
@@ -92,7 +92,7 @@ Drawing
 * [Ch 12. if Tests and Syntax Rules](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/learning-python-5th/9781449355722/ch12.html#if_tests_and_syntax_rules)
 * [Ch 13. while and for Loops](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/learning-python-5th/9781449355722/ch13.html#while_and_for_loops)
   * while Loops
-  * break, continue, pass, and the Loop else","__Due Mon, Feb 13th, at 11:00am__
+  * break, continue, pass, and the Loop else","__Due Thu, Feb 13th, at 11:00am__
 
 
 
@@ -100,14 +100,14 @@ Drawing
 * Quiz 03 in NYU Classes (under Tests and Quizzes)",,,,"* while loops AND if statements together may have been much
 * but definitely starts separating the class
 * again, wait until ds students?"
-y,workshop,5,11-Feb ,Tue,"Boolean Logic, If and While, Modules",Workshop,"Homework 2 __Due Tuesday, 9/24, at 11pm__
+,workshop,5,11-Feb ,Tue,"Boolean Logic, If and While, Modules",Workshop,"Homework 2 __Due Tuesday, 2/17, at 11pm__
 
 
-* [tip.py](assignments/hw02/tip.py)
 * [adventure.py](assignments/hw02/adventure.py)
 * [odds_and_evens.py](assignments/hw02/odds_and_evens.py)
+* [tip.py](assignments/hw02/tip.py)
 * [average_word.py](assignments/hw02/average_word.py)",,,,
-y,lecture,6,13-Feb ,Thu,"Debugging, For Loops, Nested Loops
+,lecture,6,13-Feb ,Thu,"Debugging, For Loops, Nested Loops
 
 * [Errors and Debugging](slides/02/debugging.html)
 * [For Loops](slides/03/for.html)
@@ -117,7 +117,7 @@ y,lecture,6,13-Feb ,Thu,"Debugging, For Loops, Nested Loops
 ","* [Module #3: Debugger, for Loops](https://cs.nyu.edu/~jversoza/csci-ua.0003-fa19/module03.php)
 * [Ch 13. while and for Loops](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/learning-python-5th/9781449355722/ch13.html#while_and_for_loops)
   * for Loops
-  * Loop Coding Techniques","__Due Mon, Sep 30th, at 9:30am__
+  * Loop Coding Techniques","__Due Thursday, Feb 20th, at 11:00am__
 
 
 * [Module 04 on Functions, Scope, and Modules](https://cs.nyu.edu/~jversoza/csci-ua.0003-fa19/module04.php)
