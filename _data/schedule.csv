@@ -132,8 +132,9 @@ Drawing
 * [Turtle review](slides/turtle/turtle-more.html)
   * bgcolor, color, size, square",Workshop,"Homework 3 __Due Tuesday, 2/24, at 11pm__
 
+
 * [forwards_backwards.py](assignments/hw03/forwards_backwards.py)
-* [dice.py](assignments/hw03/dice.py)
+* [many_words.py](assignments/hw03/many_words.py)
 * [Starry starry night instructions](assignments/hw03/starry_starry_night.html)
   * [starry_starry_night.py](assignments/hw03/starry_starry_night.py)
 * [pyramid.py](assignments/hw03/pyramid.py)",* higher level turtle?,,* higher level turtle is in slides only,
