@@ -126,7 +126,7 @@ Drawing
 * step over",,,"* most students were actually ok
 * ...but the ones that were very far off!
 * pycharm debugger is better than idle; need to get better at figuring out modes / switching from running one file to another"
-y,workshop,7,18-Feb ,Tue,"Debugging, For Loops, Nested Loops
+,workshop,7,18-Feb ,Tue,"Debugging, For Loops, Nested Loops
 
 * see nested loops above
 * [Turtle review](slides/turtle/turtle-more.html)
@@ -137,7 +137,7 @@ y,workshop,7,18-Feb ,Tue,"Debugging, For Loops, Nested Loops
 * [Starry starry night instructions](assignments/hw03/starry_starry_night.html)
   * [starry_starry_night.py](assignments/hw03/starry_starry_night.py)
 * [pyramid.py](assignments/hw03/pyramid.py)",* higher level turtle?,,* higher level turtle is in slides only,
-y,lecture,8,20-Feb ,Thu,"Functions, Creating and Installing Modules
+,lecture,8,20-Feb ,Thu,"Functions, Creating and Installing Modules
 
 * [Functions](slides/04/functions-return.html)
 * [Functions and Scope](slides/04/scope.html)

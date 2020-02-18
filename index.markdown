@@ -4,8 +4,6 @@ nav-state: schedule
 ---
 
 
-
-
 <!--
 <script>
 document.addEventListener('DOMContentLoaded', init);
@@ -21,11 +19,6 @@ function init() {
 }
 </script>
 -->
-
-
-
-
-
 
 
 <div id="quick-links">
