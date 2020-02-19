@@ -50,9 +50,9 @@ So, what's this __Logo__ thing about?
 
 <div class="img-container" markdown="block">![Seymour Papert](/csci-ga.1120-fall2017-001/resources/img/papert.jpg)
 </div>
-{% endcomment %}
 
 </section>
+{% endcomment %}
 
 <section markdown="block">
 <section markdown="block">
