@@ -55,7 +55,6 @@ So, what's this __Logo__ thing about?
 {% endcomment %}
 
 <section markdown="block">
-<section markdown="block">
 ##  Great, So... Why Turtle?
 
 __Imagine you have a turtle hanging out on the beach...__ &rarr;
