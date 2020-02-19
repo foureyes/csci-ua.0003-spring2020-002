@@ -44,21 +44,26 @@ So, what's this __Logo__ thing about?
 
 </section>
 
+{% comment %}
 <section markdown="block">
 ##  (And Like Many Great Computer Scientists, He Has a Beard)
 
 <div class="img-container" markdown="block">![Seymour Papert](/csci-ga.1120-fall2017-001/resources/img/papert.jpg)
 </div>
+{% endcomment %}
 
 </section>
 
 <section markdown="block">
+<section markdown="block">
 ##  Great, So... Why Turtle?
 
-Imagine you have a turtle hanging out on the beach...
+__Imagine you have a turtle hanging out on the beach...__ &rarr;
 
+{% comment %}
 <div class="img-container" markdown="block">![Turtle](/csci-ga.1120-fall2017-001/resources/img/turtle.jpg) 
 </div>
+{% endcomment %}
 </section>
 
 <section markdown="block">
@@ -233,8 +238,10 @@ We should probably convert our hello program into a template.  You'll need to wr
 * it's just a variable name; it can be anything you want (same with __wn__, but you have to change wn everywhere you see it)
 * in fact, in my previous programs, I called the turtle leo, in honor of one of these guys
 
+{% comment %}
 <div class="img-container" markdown="block">![Turtle](/csci-ga.1120-fall2017-001/resources/img/tmnt.gif) 
 </div>
+{% endcomment %}
 
 </section>
 
