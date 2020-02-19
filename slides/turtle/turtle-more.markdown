@@ -127,7 +127,7 @@ This draws a line (that's exactly 200 pixels).  (exciting).  Let's try running i
 <section markdown="block">
 ##  A Few Tips for Running Programs
 
-Running these programs (from IDLE or from Terminal!) cause a new window to pop up.  You may encounter some _minor annoyances_:
+Running these programs from your editor will cause a new window to pop up.  You may encounter some _minor annoyances_:
 
 * the window usually opens up __behind the interactive shell (or Terminal)__ &rarr;
 * sometimes an extra Python process shows up as a __rocket icon on the dock__ &rarr;
@@ -810,7 +810,7 @@ __What's an object and what's a method? &rarr;__
 <section markdown="block">
 ##  Again a Few Tips for Running Programs
 
-Running these programs (from IDLE or from Terminal!) cause a new window to pop up.
+Running these programs cause a new window to pop up.
 
 * the window usually opens up behind the interactive shell (or Terminal)
 * if there's an error, the window of your program may hang. __demo &rarr;__
