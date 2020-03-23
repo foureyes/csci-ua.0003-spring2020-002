@@ -221,7 +221,18 @@ y,exam,11,03-Mar ,Tue,Midterm #1,,,,,,
 * Quiz 06 in NYU Classes (under Tests and Quizzes)",,,,
 y,holiday,,17-Mar ,Tue,No Class Scheduled (Spring Break),,,,,,
 y,holiday,,19-Mar ,Thu,No Class Scheduled (Spring Break),,,,,,
-y,workshop,15,24-Mar ,Tue,"Lists, Tuples and Sets",Workshop,"Homework 6 __Due Tuesday, 11/5, at 11pm__
+,workshop,15,24-Mar ,Tue,"Lists, Tuples and Sets","Exam Results
+
+* extra credit assignment / exam weights may be shifted
+* discuss True/False and last 2 coding
+
+
+Workshop
+
+* quick review of lists
+* attempt workshop via zoom
+
+","Homework 6 __Due Monday, 3/30, at 11pm__
 
 
 [All instructions are in this link!](assignments/hw06/list-utilities.html)
@@ -236,7 +247,7 @@ Complete 2 out of last 3 or all last 3 for extra credit towards homework.
 
 
 ",,,,
-y,lecture,16,26-Mar ,Thu,"Lists, Tuples and Sets Continued","* Review list methods and list comprehensions
+,lecture,16,26-Mar ,Thu,"Lists, Tuples and Sets Continued","* Review list methods and list comprehensions
 * See previous slides on Tuples and List Mutability
 * discuss sets",,,,,
 y,workshop,17,31-Mar ,Tue,"Lists, Tuples and Sets Continued
