@@ -1,8 +1,8 @@
 """
-pawesome_pet_vet.py (14 points)
+pawesome_pet_vet.py 
 =====
 Write a program for managing the animals that are coming into a pet clinic. Use
-the functions in vet.py to help! Remember that the list of animals that are
+the functions in animal_functions.py to help! Remember that the list of animals that are
 checked in to the clinic is a list of lists. The outer list is the list of
 animals, and each inner list reprsents a single animal:
 

@@ -13,7 +13,6 @@ def flattened(lst):
     :return: flattened list
     :rtype: list
     """
-    print("IMPLEMENT ME!")
 
 
 def shift_left(lst, n, fill_value=0):
@@ -35,7 +34,6 @@ def shift_left(lst, n, fill_value=0):
     :return: does not return a value
     :rtype: None
     """
-    print("IMPLEMENT ME!")
 
 
 def shifted_left(lst, n, fill_value=0):
@@ -57,7 +55,6 @@ def shifted_left(lst, n, fill_value=0):
     :return: new list with values shifted
     :rtype: list
     """
-    print("IMPLEMENT ME!")
 
 
 def shift_right(lst, n, fill_value=0):
@@ -79,7 +76,6 @@ def shift_right(lst, n, fill_value=0):
     :return: does not return a value
     :rtype: None
     """
-    print("IMPLEMENT ME!")
 
 
 def shifted_right(lst, n, fill_value=0):
@@ -101,7 +97,6 @@ def shifted_right(lst, n, fill_value=0):
     :return: new list with values shifted
     :rtype: list
     """
-    print("IMPLEMENT ME!")
 
 
 
@@ -119,7 +114,6 @@ def fill_in_place(lst, fill_value=0):
     :return: does not return a value
     :rtype: None
     """
-    print("IMPLEMENT ME!")
 
 
 def truncate_long_words(words, n):
@@ -141,7 +135,6 @@ def truncate_long_words(words, n):
     :return: new list only long words included... with each word truncated
     :rtype: list
     """
-    print("IMPLEMENT ME WITH A LIST COMPREHENSION!")
 
 
 def sum_postive_pairs(lst):
@@ -164,7 +157,6 @@ def sum_postive_pairs(lst):
     :return: new list of sums of every two-element tuple
     :rtype: list
     """
-    print("IMPLEMENT ME WITH A LIST COMPREHENSION!")
 
 
 def consecutive_chars(start_ch, end_ch):
@@ -195,7 +187,6 @@ def consecutive_chars(start_ch, end_ch):
              to end_ch inclusive (or empty string)
     :rtype: str
     """
-    print("IMPLEMENT ME WITH A LIST COMPREHENSION!")
 
 def unique(*lsts):
     """Creates a new set that consists of the unique elements of every list
