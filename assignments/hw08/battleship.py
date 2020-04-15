@@ -14,9 +14,7 @@ reveal the location of the ship).
    a. load_from_file(name_of_file)
       -----
       parameter - name_of_file: str
-      returns - a tuple containing:
       * a list of lists representing the board
-      * and a number representing the number of moves so far
 
       This function will read a file based on the string passed in as 
       name_of_file. The format of the file will be:
@@ -30,12 +28,16 @@ o o _ o o
       * o represents a "cell" that has not been revealed yet
       * _ represents a "cell" that has been revealed and does not contain
           the computer's ship
-      * X represents a "cell" that has not been revealed yet
+      * X represents the "cell" that contains the ship
 
       The function will return a nested list based on the data in the file:
 
       * each line will be a sublist, and each symbol will be an element in
         the sublist
+      * note that the data structure that holds the elements is a list of
+        lists, but you'll have to display the data differently to the user
+        (for example, X would be shown as o, and the brackets would be
+        omitted)
       * given the example file above, this function should return:
 
         [['o', 'o', 'o', 'o', 'o'], 
