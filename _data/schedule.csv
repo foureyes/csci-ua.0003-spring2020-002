@@ -298,7 +298,7 @@ Exceptions, File I/O and Data Formats",Workshop,"Homework 8 __Due Monday, 4/20, 
 2. [wordsy.py](assignments/hw08/wordsy.py)
   *  [enable1.txt](assignments/hw08/enable1.txt)
 3. [battleship.py](assignments/hw08/battleship.py)",,,,
-y,lecture,22,16-Apr ,Thu,"Dictionaries and Counters
+,lecture,22,16-Apr ,Thu,"Dictionaries and Counters
 
 * [Dictionaries](slides/06/dictionaries.html)
 * [Counting with Various Data Types](slides/collections/counter.html)","* [Module #7: Dictionaries](https://cs.nyu.edu/~jversoza/csci-ua.0003-fa19/module07.php)
