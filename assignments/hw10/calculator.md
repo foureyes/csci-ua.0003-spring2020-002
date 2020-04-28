@@ -5,7 +5,7 @@ title: calculator.py
 <link href='https://fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
 
 
-# Stack and RPN Calculator (Homework and Extra Credit for Midterm\*)
+# Stack, RPN Calculator, and Animation (Homework and Extra Credit for Midterm\*)
 
 
 <pre><code data-trim contenteditable>   ____________________
@@ -24,7 +24,7 @@ title: calculator.py
 </code></pre>
 {%comment%}_ {%endcomment%}
 
-\* additional 6 points to lower scoring midterm if second midterm score was not 10% higher than first midterm score
+\* additional 4 points to lower scoring midterm 
 
 ### Overview
 
@@ -32,17 +32,21 @@ Create a class, `RPNCalculator`, that can evaluate a [reverse polish notation (p
 
 ### Setup
 
-Create 2 classes: 
+Create 4+ classes: 
 
 1. <code>Stack</code> in `stack.py`  (homework)
-2. <code>RPNCalculator</code> in `calculator.py` (extra credit for midterm)
+2. <code>RPNCalculator</code> in `calculator.py` (homework)
+3. two classes of _your choice_ in <code>animation.py</code> (extra credit)
+
 
 ### ⚠️ Submission / Scoring
 
-* If your second midterm's raw score was __not__ 10% higher than your first midterm's raw score, the extra credit will count for up-to 6 additional points to your lowest scoring midterm grade.
+{% comment %}
+* If your second midterm's raw score was __not__ 10% higher than your first midterm's raw score, the extra credit will count for up-to 4 additional points to your lowest scoring midterm grade.
 * There will be two assignments on NYU Classes:
-	1. upload `stack.py` to Homework 10
-	2. upload `calculator.py` to Extra Credit
+	1. upload `stack.py` and `calculator.py` to Homework 10
+	2. upload `animation.py` to Extra Credit
+{% endcomment %}
 
 ### Part 1: Stack Class (Homework)
 
@@ -134,9 +138,9 @@ AssertionError: '|1|\n|2|\n ‾' != '|2|\n|1|\n ‾'
 &nbsp;&nbsp;&nbsp;‾
 </code></pre>
 
-### Part 2: RPNCalculator Class (Extra Credit for Midterm)
+### Part 2: RPNCalculator Class (Homework)
 
-Your <code>RPNCalculator</code> class should have the following constructor, methods and attributesa 
+Your <code>RPNCalculator</code> class should have the following constructor, methods and attributes 
 
 * to create an instance of calculator: `RPNCalculator(expression)`, 
 	* `expression` is a string representing a mathematical expression in Reverse Polish Notation (RPN)
@@ -185,3 +189,19 @@ OK
 Process finished with exit code 0
 </code></pre>
 6. An exception will occur if any of the tests fail
+
+### Part 3: Animation(Extra Credit)
+
+Up to 4 points extra credit on lower scoring midterm.
+
+1. (+2) create at least two classes representing a drawing in turtle
+	* for example a, `Tree` class... or a `Car` class  with x and y coordinates, a color attribute, a size attribute, etc.
+	* ...and some methods, such as a `move` to change coordinates or `draw` ... so that it can draw itself on screen as a triangle on top of rectangle
+	* the classes can have similar attributes and / or methods
+	* one class can inherit from another class
+2. (+1) create multiple instances of each class 
+	* at least two for each)
+	* each instance should be used to inform what is drawn on screen 
+	* for example, two instances of a `Planet` class would result in two planets drawn on screen (hopefully using the instance's attributes to influence the drawing in _some_ way
+4. (+1) finally, using [these slides](../../slides/turtle/turtle-more.html#48), incorporate animation into your project... at least one of your drawings should move in some way
+
